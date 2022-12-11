@@ -1,0 +1,46 @@
+body{
+    background-image: url(Blog.png); 
+    background-position: center;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+.nav{
+    font-family:'Antic Didone', serif ;
+    font-size: 32px;
+    color: #F65A77; 
+    text-align: right;
+    padding: 30px;
+    text-decoration: none;
+
+}
+
+.nav:hover{
+    color:#D60A30;
+}
+    
+.navbar{
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 55%;
+    position: absolute;
+    width: fit-content;
+
+}
+.logo{
+    padding: 40px;
+    margin-top: -30px;
+    display: inline-block;
+}
+.title{
+    font-family:'Antic Didone', serif ;
+    font-size: 48px;
+    color: #880505;
+    text-align: center;
+    margin-top: -2.5%;
+}
+.text1{
+    font-family:'Antic Didone', serif ;
+    font-size: 35px;
+    text-align:left;
+}

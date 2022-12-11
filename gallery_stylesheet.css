@@ -1,0 +1,87 @@
+body{
+    background-image: url(Gallery.png);
+    background-position: center;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+.nav{
+    font-family:'Antic Didone', serif ;
+    font-size: 32px;
+    color: #F65A77; 
+    text-align: right;
+    padding: 30px;
+    text-decoration: none;
+
+}
+
+.nav:hover{
+    color:#D60A30;
+}
+    
+.navbar{
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 55%;
+    position: absolute;
+    width: fit-content;
+
+}
+.logo{
+    padding: 40px;
+    margin-top: -30px;
+    display: inline-block;
+}
+.photography{
+    padding-right: 0%;
+    padding-left: 7%;
+    padding-top: 7%;
+    padding-bottom: 0%;
+    position: absolute;
+}
+.text_photography{
+    font-family: 'Inter', sans-serif;
+    font-size: 27px;
+    color: #F65A77;
+    text-align: left;
+    padding-top: 28%;
+    padding-bottom: 0%;
+    padding-left: 15%;
+    padding-right: 0%;
+}
+.text_personalwork{
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    color: #F65A77;
+    text-align: left;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 16%;
+    padding-right: 0%;
+    font-weight: 100;
+}
+.divs{
+    position: absolute;
+}
+.part1{
+    position:relative;
+}
+.part2{
+    position: absolute;
+    margin-left: 55%;
+    margin-top: -26%;
+}
+.text_d-p{
+    font-family: 'Inter', sans-serif;
+    font-size: 27px;
+    color: #F65A77;
+    margin-top: -9%;
+    margin-left: 27%;
+}
+.text_personalworkk{
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    color: #F65A77;
+    font-weight: 100;
+    padding-left: 40%;
+    padding-right: 0%;
+}

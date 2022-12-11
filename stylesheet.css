@@ -1,0 +1,46 @@
+body{
+    background-image: url(me.JPG);
+    background-position: center;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+.my_name{
+    font-family: 'Antic Didone', serif;
+    font-size: 100px;
+    color: #D60A30;
+    margin-top: 23%;
+    font-weight: normal;
+}
+.nav{
+    font-family:'Antic Didone', serif ;
+    font-size: 32px;
+    color: white; 
+    text-align: right;
+    padding: 30px;
+    text-decoration: none;
+
+}
+
+.nav:hover{
+    color:#D60A30;
+}
+    
+.navbar{
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 55%;
+    position: absolute;
+    width: fit-content;
+
+}
+.logo{
+    padding: 40px;
+    margin-top: -30px;
+    display: inline-block;
+}
+.buttom_img{
+    position: absolute;
+    margin-top: -630px;
+    margin-left: 1230px;
+    display: inline-flexbox;
+}
