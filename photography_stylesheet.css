@@ -38,3 +38,14 @@ body{
         text-align: center;
         margin-top: -2.5%;
 }
+.flex_cont{
+    display: flex;
+    justify-content: center;
+}
+.flex_cont > div{
+    justify-content: space-between
+}
+.imgs{
+    padding: 2%;
+    padding-top: 1%;
+}
